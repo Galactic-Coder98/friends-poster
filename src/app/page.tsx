@@ -52,7 +52,7 @@ export default function Home() {
       {/* Favorite Artist Section */}
       <section className="mt-6 text-center">
         <h3 className="text-xl font-semibold">🎶 Rauw Alejandro 🎶</h3>
-        <p className="text-gray-600">"Dile a tu mai que no va' a llegar a casa..."</p>
+        <p className="text-gray-600">&quot;Dile a tu mai que no va&apos; a llegar a casa...&quot;</p>
         <Image 
           src="/Rauw.jpeg" 
           width={200} 
